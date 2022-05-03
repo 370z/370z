@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @370z
-- 👀 I’m interested in Backend Developer , DevOp
+- 👀 I’m interested in Backend Developer,DevOp
 - 🌱 I’m currently learning ReactJS,NuxtJS,VueJS 
